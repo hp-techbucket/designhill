@@ -1,0 +1,12 @@
+[0mPOST /importProducts1 [33m404[0m 16.291 ms - 155[0m
+[0mPOST /importProducts1 [33m404[0m 23.567 ms - 155[0m
+[0mPOST //user/register [33m404[0m 39.963 ms - 154[0m
+[0mPOST //user/register [33m404[0m 25.291 ms - 154[0m
+[0mPOST //user/register [33m404[0m 25.489 ms - 154[0m
+[0mPOST /user/register [31m500[0m 21.605 ms - 1320[0m
+[0mPOST /user/register [31m500[0m 22.838 ms - 1321[0m
+[0mPOST /user/register [31m500[0m 71.247 ms - 70[0m
+[0mPOST /user/register [31m500[0m 5.165 ms - 73[0m
+[0mPOST /user/register [32m200[0m 60.869 ms - 93[0m
+[0mPOST /user/register [32m200[0m 64.721 ms - 129[0m
+[0mPOST /user/register [32m200[0m 53.715 ms - 129[0m
